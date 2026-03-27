@@ -8,3 +8,5 @@ langchain-google-genai
 chromadb
 sentence-transformers
 pypdf
+rank_bm25
+torch
