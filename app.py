@@ -48,7 +48,7 @@ def load_rag_chain():
     # ==========================================
 
     # 구글 Gemini API 모델
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", temperature=0)
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash-latest", temperature=0)
 
     # Llama 3.1 로컬 모델
     #llm = ChatOllama(model="llama3.1", temperature=0) 
