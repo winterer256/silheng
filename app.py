@@ -44,7 +44,7 @@ def load_rag_chain():
 
     # ==========================================
     # 🚨 여기에 발급받은 Google API 키를 붙여넣으세요! 
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyAkPGdbAuV68v6PAysUXe648vN97B3w-HA"
+    #os.environ["GOOGLE_API_KEY"] = "AIzaSyAkPGdbAuV68v6PAysUXe648vN97B3w-HA"
     # ==========================================
 
     # 구글 Gemini API 모델
